@@ -1,0 +1,624 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\gui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|solutionrelative:gui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\gui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|solutionrelative:gui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|solutionrelative:dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\bll\\nhanvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|solutionrelative:bll\\nhanvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\bll\\sanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|solutionrelative:bll\\sanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\gui\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|solutionrelative:gui\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dal\\nhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|solutionrelative:dal\\nhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dal\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|solutionrelative:dal\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\bll\\chitietphieunhapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|solutionrelative:bll\\chitietphieunhapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\bll\\chucvubll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|solutionrelative:bll\\chucvubll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\bll\\donhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|solutionrelative:bll\\donhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\bll\\phieunhapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|solutionrelative:bll\\phieunhapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\bll\\luongbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|solutionrelative:bll\\luongbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\bll\\khachhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|solutionrelative:bll\\khachhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dal\\khachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|solutionrelative:dal\\khachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dal\\chucvudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|solutionrelative:dal\\chucvudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dal\\donhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|solutionrelative:dal\\donhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\bll\\chitietdonhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B59562-A870-4133-B0E8-AB0557105DBA}|BLL\\BLL.csproj|solutionrelative:bll\\chitietdonhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dal\\luongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|solutionrelative:dal\\luongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dal\\phieunhapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|solutionrelative:dal\\phieunhapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dto\\phieunhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|solutionrelative:dto\\phieunhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dal\\chitietphieunhapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|solutionrelative:dal\\chitietphieunhapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dal\\chitietdonhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|solutionrelative:dal\\chitietdonhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dto\\chitietdonhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|solutionrelative:dto\\chitietdonhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A3F4C-863B-45F8-9662-F4533988DDB1}|DAL\\DAL.csproj|solutionrelative:dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dto\\luongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|solutionrelative:dto\\luongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dto\\chitietphieunhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|solutionrelative:dto\\chitietphieunhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dto\\donhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|solutionrelative:dto\\donhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dto\\chucvudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|solutionrelative:dto\\chucvudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\dto\\khachhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83954743-5C2E-49C1-9CBE-E6C6FF7F95BD}|DTO\\DTO.csproj|solutionrelative:dto\\khachhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmNhanVien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\frmNhanVien.Designer.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmNhanVien.Designer.cs",
+              "RelativeToolTip": "GUI\\frmNhanVien.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:43:16.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "GUI\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "GUI\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:17:38.259Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanPhamBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\SanPhamBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\SanPhamBLL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\SanPhamBLL.cs",
+              "RelativeToolTip": "BLL\\SanPhamBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:10:42.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\NhanVienBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\NhanVienBLL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\NhanVienBLL.cs",
+              "RelativeToolTip": "BLL\\NhanVienBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:26:38.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVienDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\NhanVienDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\NhanVienDTO.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\NhanVienDTO.cs",
+              "RelativeToolTip": "DTO\\NhanVienDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:11:08.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "GUI\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmNhanVien.cs",
+              "RelativeToolTip": "GUI\\frmNhanVien.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAawFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:57:33.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:40:17.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPhamDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\SanPhamDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\SanPhamDAL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\SanPhamDAL.cs",
+              "RelativeToolTip": "DAL\\SanPhamDAL.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:31:01.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChiTietPhieuNhapBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\ChiTietPhieuNhapBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ChiTietPhieuNhapBLL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\ChiTietPhieuNhapBLL.cs",
+              "RelativeToolTip": "BLL\\ChiTietPhieuNhapBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:24:41.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhanVienDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\NhanVienDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\NhanVienDAL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\NhanVienDAL.cs",
+              "RelativeToolTip": "DAL\\NhanVienDAL.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:29:53.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChucVuBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\ChucVuBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ChucVuBLL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\ChucVuBLL.cs",
+              "RelativeToolTip": "BLL\\ChucVuBLL.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:27:53.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DonHangBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\DonHangBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\DonHangBLL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\DonHangBLL.cs",
+              "RelativeToolTip": "BLL\\DonHangBLL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:26:28.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhieuNhapBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\PhieuNhapBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\PhieuNhapBLL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\PhieuNhapBLL.cs",
+              "RelativeToolTip": "BLL\\PhieuNhapBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:26:26.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LuongBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\LuongBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\LuongBLL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\LuongBLL.cs",
+              "RelativeToolTip": "BLL\\LuongBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:25:23.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KhachHangBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\KhachHangBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\KhachHangBLL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\KhachHangBLL.cs",
+              "RelativeToolTip": "BLL\\KhachHangBLL.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:26:27.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhachHangDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\KhachHangDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KhachHangDAL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\KhachHangDAL.cs",
+              "RelativeToolTip": "DAL\\KhachHangDAL.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:30:54.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChucVuDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\ChucVuDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ChucVuDAL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\ChucVuDAL.cs",
+              "RelativeToolTip": "DAL\\ChucVuDAL.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv1oAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:30:44.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DonHangDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\DonHangDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DonHangDAL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\DonHangDAL.cs",
+              "RelativeToolTip": "DAL\\DonHangDAL.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:31:11.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChiTietDonHangBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\ChiTietDonHangBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ChiTietDonHangBLL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\BLL\\ChiTietDonHangBLL.cs",
+              "RelativeToolTip": "BLL\\ChiTietDonHangBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:25:12.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LuongDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\LuongDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\LuongDAL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\LuongDAL.cs",
+              "RelativeToolTip": "DAL\\LuongDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:39:26.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PhieuNhapDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\PhieuNhapDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\PhieuNhapDAL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\PhieuNhapDAL.cs",
+              "RelativeToolTip": "DAL\\PhieuNhapDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:31:30.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PhieuNhapDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\PhieuNhapDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PhieuNhapDTO.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\PhieuNhapDTO.cs",
+              "RelativeToolTip": "DTO\\PhieuNhapDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:25:25.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChiTietPhieuNhapDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\ChiTietPhieuNhapDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ChiTietPhieuNhapDAL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\ChiTietPhieuNhapDAL.cs",
+              "RelativeToolTip": "DAL\\ChiTietPhieuNhapDAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:54:22.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChiTietDonHangDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\ChiTietDonHangDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ChiTietDonHangDAL.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\ChiTietDonHangDAL.cs",
+              "RelativeToolTip": "DAL\\ChiTietDonHangDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:55:46.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChiTietDonHangDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\ChiTietDonHangDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietDonHangDTO.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\ChiTietDonHangDTO.cs",
+              "RelativeToolTip": "DTO\\ChiTietDonHangDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:25:35.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DAL\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DAL\\DataProvider.cs",
+              "RelativeToolTip": "DAL\\DataProvider.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:10:56.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LuongDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\LuongDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LuongDTO.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\LuongDTO.cs",
+              "RelativeToolTip": "DTO\\LuongDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:22:10.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChiTietPhieuNhapDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\ChiTietPhieuNhapDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietPhieuNhapDTO.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\ChiTietPhieuNhapDTO.cs",
+              "RelativeToolTip": "DTO\\ChiTietPhieuNhapDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:25:07.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DonHangDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\DonHangDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DonHangDTO.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\DonHangDTO.cs",
+              "RelativeToolTip": "DTO\\DonHangDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:25:44.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ChucVuDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\ChucVuDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ChucVuDTO.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\ChucVuDTO.cs",
+              "RelativeToolTip": "DTO\\ChucVuDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:20:49.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KhachHangDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\KhachHangDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\KhachHangDTO.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\DTO\\KhachHangDTO.cs",
+              "RelativeToolTip": "DTO\\KhachHangDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:26:02.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1042,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

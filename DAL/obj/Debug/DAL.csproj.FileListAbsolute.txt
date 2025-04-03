@@ -1,0 +1,9 @@
+C:\Users\Welcome\source\repos\CuaHang\DAL\bin\Debug\DAL.dll
+C:\Users\Welcome\source\repos\CuaHang\DAL\bin\Debug\DAL.pdb
+C:\Users\Welcome\source\repos\CuaHang\DAL\bin\Debug\DTO.dll
+C:\Users\Welcome\source\repos\CuaHang\DAL\bin\Debug\DTO.pdb
+C:\Users\Welcome\source\repos\CuaHang\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\CuaHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\CuaHang\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Welcome\source\repos\CuaHang\DAL\obj\Debug\DAL.dll
+C:\Users\Welcome\source\repos\CuaHang\DAL\obj\Debug\DAL.pdb
