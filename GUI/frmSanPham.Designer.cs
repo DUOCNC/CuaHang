@@ -1,6 +1,6 @@
 ﻿namespace GUI
 {
-    partial class frmNhanVien
+    partial class frmSanPham
     {
         /// <summary>
         /// Required designer variable.
@@ -28,21 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
-            dataGridViewNhanVien = new DataGridView();
+            dataGridViewSanPham = new DataGridView();
             btnTimKiem = new MaterialSkin.Controls.MaterialButton();
             txtTimKiem = new MaterialSkin.Controls.MaterialTextBox();
-            ((System.ComponentModel.ISupportInitialize)dataGridViewNhanVien).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewSanPham).BeginInit();
             SuspendLayout();
             // 
-            // dataGridViewNhanVien
+            // dataGridViewSanPham
             // 
-            dataGridViewNhanVien.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewNhanVien.Location = new Point(25, 188);
-            dataGridViewNhanVien.Name = "dataGridViewNhanVien";
-            dataGridViewNhanVien.RowHeadersWidth = 51;
-            dataGridViewNhanVien.Size = new Size(903, 242);
-            dataGridViewNhanVien.TabIndex = 0;
-            dataGridViewNhanVien.CellContentClick += dataGridViewNhanVien_CellContentClick;
+            dataGridViewSanPham.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewSanPham.Location = new Point(25, 188);
+            dataGridViewSanPham.Name = "dataGridViewSanPham";
+            dataGridViewSanPham.RowHeadersWidth = 51;
+            dataGridViewSanPham.Size = new Size(903, 242);
+            dataGridViewSanPham.TabIndex = 0;
+            dataGridViewSanPham.CellContentClick += dataGridViewSanPham_CellContentClick;
             // 
             // btnTimKiem
             // 
@@ -82,24 +82,24 @@
             txtTimKiem.TrailingIcon = null;
             txtTimKiem.TextChanged += materialTextBox1_TextChanged;
             // 
-            // frmNhanVien
+            // frmSanPham
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1443, 517);
             Controls.Add(txtTimKiem);
             Controls.Add(btnTimKiem);
-            Controls.Add(dataGridViewNhanVien);
-            Name = "frmNhanVien";
-            Text = "frmNhanVien";
-            ((System.ComponentModel.ISupportInitialize)dataGridViewNhanVien).EndInit();
+            Controls.Add(dataGridViewSanPham);
+            Name = "frmSanPham";
+            Text = "frmSanPham";
+            ((System.ComponentModel.ISupportInitialize)dataGridViewSanPham).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private DataGridView dataGridViewNhanVien;
+        private DataGridView dataGridViewSanPham;
         private MaterialSkin.Controls.MaterialButton btnTimKiem;
         private MaterialSkin.Controls.MaterialTextBox txtTimKiem;
     }

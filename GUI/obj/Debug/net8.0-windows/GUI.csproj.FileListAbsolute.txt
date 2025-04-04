@@ -31,3 +31,4 @@ C:\Users\Welcome\source\repos\CuaHang\GUI\obj\Debug\net8.0-windows\refint\GUI.dl
 C:\Users\Welcome\source\repos\CuaHang\GUI\obj\Debug\net8.0-windows\GUI.pdb
 C:\Users\Welcome\source\repos\CuaHang\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
 C:\Users\Welcome\source\repos\CuaHang\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Users\Welcome\source\repos\CuaHang\GUI\obj\Debug\net8.0-windows\GUI.frmSanPham.resources

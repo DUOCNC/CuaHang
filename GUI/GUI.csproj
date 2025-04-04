@@ -17,4 +17,10 @@
     <ProjectReference Include="..\ClassLibrary1\BLL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="frmSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
 </Project>
