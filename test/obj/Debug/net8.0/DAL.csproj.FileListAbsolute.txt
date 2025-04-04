@@ -1,0 +1,16 @@
+C:\Users\Welcome\source\repos\CuaHang\test\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Welcome\source\repos\CuaHang\test\bin\Debug\net8.0\DAL.dll
+C:\Users\Welcome\source\repos\CuaHang\test\bin\Debug\net8.0\DAL.pdb
+C:\Users\Welcome\source\repos\CuaHang\test\bin\Debug\net8.0\DTO.dll
+C:\Users\Welcome\source\repos\CuaHang\test\bin\Debug\net8.0\DTO.pdb
+C:\Users\Welcome\source\repos\CuaHang\test\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\CuaHang\test\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\CuaHang\test\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\CuaHang\test\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\CuaHang\test\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\CuaHang\test\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\Welcome\source\repos\CuaHang\test\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Welcome\source\repos\CuaHang\test\obj\Debug\net8.0\DAL.dll
+C:\Users\Welcome\source\repos\CuaHang\test\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Welcome\source\repos\CuaHang\test\obj\Debug\net8.0\DAL.pdb
+C:\Users\Welcome\source\repos\CuaHang\test\obj\Debug\net8.0\ref\DAL.dll

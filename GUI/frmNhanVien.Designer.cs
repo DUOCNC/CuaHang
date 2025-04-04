@@ -29,20 +29,14 @@
         private void InitializeComponent()
         {
             dataGridViewNhanVien = new DataGridView();
-            btnTimKiem = new Button();
-            txtTimKiem = new TextBox();
-            TenNV = new DataGridViewTextBoxColumn();
-            MaNV = new DataGridViewTextBoxColumn();
-            TenCV = new DataGridViewTextBoxColumn();
-            SDT = new DataGridViewTextBoxColumn();
-            DiaChi = new DataGridViewTextBoxColumn();
+            btnTimKiem = new MaterialSkin.Controls.MaterialButton();
+            txtTimKiem = new MaterialSkin.Controls.MaterialTextBox();
             ((System.ComponentModel.ISupportInitialize)dataGridViewNhanVien).BeginInit();
             SuspendLayout();
             // 
             // dataGridViewNhanVien
             // 
             dataGridViewNhanVien.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewNhanVien.Columns.AddRange(new DataGridViewColumn[] { TenNV, MaNV, TenCV, SDT, DiaChi });
             dataGridViewNhanVien.Location = new Point(25, 188);
             dataGridViewNhanVien.Name = "dataGridViewNhanVien";
             dataGridViewNhanVien.RowHeadersWidth = 51;
@@ -52,55 +46,41 @@
             // 
             // btnTimKiem
             // 
-            btnTimKiem.Location = new Point(834, 140);
+            btnTimKiem.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            btnTimKiem.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
+            btnTimKiem.Depth = 0;
+            btnTimKiem.HighEmphasis = true;
+            btnTimKiem.Icon = null;
+            btnTimKiem.Location = new Point(770, 129);
+            btnTimKiem.Margin = new Padding(4, 6, 4, 6);
+            btnTimKiem.MouseState = MaterialSkin.MouseState.HOVER;
             btnTimKiem.Name = "btnTimKiem";
-            btnTimKiem.Size = new Size(94, 29);
-            btnTimKiem.TabIndex = 1;
-            btnTimKiem.Text = "Tìm kiếm";
+            btnTimKiem.NoAccentTextColor = Color.Empty;
+            btnTimKiem.Size = new Size(158, 36);
+            btnTimKiem.TabIndex = 3;
+            btnTimKiem.Text = "materialButton1";
+            btnTimKiem.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
+            btnTimKiem.UseAccentColor = false;
             btnTimKiem.UseVisualStyleBackColor = true;
+            btnTimKiem.Click += btnTimKiem_Click_1;
             // 
             // txtTimKiem
             // 
-            txtTimKiem.Location = new Point(25, 141);
+            txtTimKiem.AnimateReadOnly = false;
+            txtTimKiem.BorderStyle = BorderStyle.None;
+            txtTimKiem.Depth = 0;
+            txtTimKiem.Font = new Font("Roboto", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtTimKiem.LeadingIcon = null;
+            txtTimKiem.Location = new Point(25, 129);
+            txtTimKiem.MaxLength = 50;
+            txtTimKiem.MouseState = MaterialSkin.MouseState.OUT;
+            txtTimKiem.Multiline = false;
             txtTimKiem.Name = "txtTimKiem";
-            txtTimKiem.PlaceholderText = "Tìm kiếm nhân viên";
-            txtTimKiem.Size = new Size(794, 27);
-            txtTimKiem.TabIndex = 2;
-            // 
-            // TenNV
-            // 
-            TenNV.HeaderText = "Họ và tên";
-            TenNV.MinimumWidth = 6;
-            TenNV.Name = "TenNV";
-            TenNV.Width = 200;
-            // 
-            // MaNV
-            // 
-            MaNV.HeaderText = "Mã NV";
-            MaNV.MinimumWidth = 6;
-            MaNV.Name = "MaNV";
-            MaNV.Width = 125;
-            // 
-            // TenCV
-            // 
-            TenCV.HeaderText = "Chức vụ";
-            TenCV.MinimumWidth = 6;
-            TenCV.Name = "TenCV";
-            TenCV.Width = 125;
-            // 
-            // SDT
-            // 
-            SDT.HeaderText = "Điện thoại";
-            SDT.MinimumWidth = 6;
-            SDT.Name = "SDT";
-            SDT.Width = 150;
-            // 
-            // DiaChi
-            // 
-            DiaChi.HeaderText = "Địa chỉ";
-            DiaChi.MinimumWidth = 6;
-            DiaChi.Name = "DiaChi";
-            DiaChi.Width = 250;
+            txtTimKiem.Size = new Size(724, 50);
+            txtTimKiem.TabIndex = 4;
+            txtTimKiem.Text = "";
+            txtTimKiem.TrailingIcon = null;
+            txtTimKiem.TextChanged += materialTextBox1_TextChanged;
             // 
             // frmNhanVien
             // 
@@ -120,12 +100,7 @@
         #endregion
 
         private DataGridView dataGridViewNhanVien;
-        private Button btnTimKiem;
-        private TextBox txtTimKiem;
-        private DataGridViewTextBoxColumn TenNV;
-        private DataGridViewTextBoxColumn MaNV;
-        private DataGridViewTextBoxColumn TenCV;
-        private DataGridViewTextBoxColumn SDT;
-        private DataGridViewTextBoxColumn DiaChi;
+        private MaterialSkin.Controls.MaterialButton btnTimKiem;
+        private MaterialSkin.Controls.MaterialTextBox txtTimKiem;
     }
 }

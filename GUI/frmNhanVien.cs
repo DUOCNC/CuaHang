@@ -20,7 +20,7 @@ namespace GUI
 
         private void LoadChucVu()
         {
-            
+
         }
 
         private void LoadNhanVien()
@@ -30,7 +30,7 @@ namespace GUI
 
         private void ClearForm()
         {
-            
+
         }
 
         private NhanVienDTO GetFormData()
@@ -81,6 +81,16 @@ namespace GUI
         }
 
         private void dataGridViewNhanVien_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void btnTimKiem_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void materialTextBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
