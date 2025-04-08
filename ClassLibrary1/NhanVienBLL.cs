@@ -26,6 +26,10 @@ namespace QLCuaHang.BLL
 
         public bool Add(NhanVienDTO nv)
         {
+            //validate sdt từ 9 đến 10 ký tự
+            if (nv.SDT !=null && (nv.SDT.Length > 9 || nv.SDT.Length > 10))
+                return false;
+
             return dal.InsertNhanVien(nv.MaNV, nv.HoTen, nv.NgaySinh, nv.GioiTinh, nv.DiaChi,
                                       nv.SDT, nv.Email, nv.MaCV, nv.LuongCoBan, nv.NgayVaoLam);
         }

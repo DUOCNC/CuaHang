@@ -26,7 +26,7 @@ namespace QLCuaHang.DAL
         {
             List<KhachHangDTO> list = new List<KhachHangDTO>();
 
-            string query = "SELECT * FROM KhachHang";
+            string query = "SELECT * FROM dbo.KhachHang";
 
             DataTable data = DataProvider.Instance.ExecuteQuery(query);
 

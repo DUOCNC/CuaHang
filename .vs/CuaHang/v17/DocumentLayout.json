@@ -1,44 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\gui\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|solutionrelative:gui\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\gui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|solutionrelative:gui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\gui\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|solutionrelative:gui\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CC633EF-76ED-4DC0-AFE0-82155F2D6560}|ClassLibrary1\\BLL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC633EF-76ED-4DC0-AFE0-82155F2D6560}|ClassLibrary1\\BLL.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\gui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22744E3A-08BE-46B0-8081-A0AA364E6AD2}|GUI\\GUI.csproj|solutionrelative:gui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8B27BC-BFA7-430F-A22D-F8358542AC00}|test\\DAL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\test\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8B27BC-BFA7-430F-A22D-F8358542AC00}|test\\DAL.csproj|solutionrelative:test\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A10FB44-461F-4BEA-B389-C4F245FBF1AE}|ClassLibrary2\\DTO.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\classlibrary2\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A10FB44-461F-4BEA-B389-C4F245FBF1AE}|ClassLibrary2\\DTO.csproj|solutionrelative:classlibrary2\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8B27BC-BFA7-430F-A22D-F8358542AC00}|test\\DAL.csproj|c:\\users\\welcome\\source\\repos\\cuahang\\test\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8B27BC-BFA7-430F-A22D-F8358542AC00}|test\\DAL.csproj|solutionrelative:test\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -46,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,118 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\ClassLibrary1\\Class1.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\ClassLibrary1\\Class1.cs",
-              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:30:50.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SanPhamDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\ClassLibrary2\\SanPhamDTO.cs",
-              "RelativeDocumentMoniker": "ClassLibrary2\\SanPhamDTO.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\ClassLibrary2\\SanPhamDTO.cs",
-              "RelativeToolTip": "ClassLibrary2\\SanPhamDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:33:09.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmNhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmNhanVien.cs",
-              "RelativeDocumentMoniker": "GUI\\frmNhanVien.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmNhanVien.cs",
-              "RelativeToolTip": "GUI\\frmNhanVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:33:37.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\test\\DataProvider.cs",
-              "RelativeDocumentMoniker": "test\\DataProvider.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\test\\DataProvider.cs",
-              "RelativeToolTip": "test\\DataProvider.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwBUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:28:58.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SanPhamDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\test\\SanPhamDAL.cs",
-              "RelativeDocumentMoniker": "test\\SanPhamDAL.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\test\\SanPhamDAL.cs",
-              "RelativeToolTip": "test\\SanPhamDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:30:02.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmSanPham.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmSanPham.cs",
-              "RelativeDocumentMoniker": "GUI\\frmSanPham.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmSanPham.cs",
-              "RelativeToolTip": "GUI\\frmSanPham.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAD4v0gAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:07:20.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmNhanVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmNhanVien.cs",
-              "RelativeDocumentMoniker": "GUI\\frmNhanVien.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmNhanVien.cs [Design]",
-              "RelativeToolTip": "GUI\\frmNhanVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:09:09.309Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmSanPham.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmSanPham.cs",
-              "RelativeDocumentMoniker": "GUI\\frmSanPham.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\frmSanPham.cs [Design]",
-              "RelativeToolTip": "GUI\\frmSanPham.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:09:10.164Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\Program.cs",
-              "RelativeDocumentMoniker": "GUI\\Program.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\CuaHang\\GUI\\Program.cs",
-              "RelativeToolTip": "GUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:09:39.267Z",
-              "EditorCaption": ""
             }
           ]
         },

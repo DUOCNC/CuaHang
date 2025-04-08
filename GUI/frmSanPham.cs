@@ -8,7 +8,7 @@ namespace GUI
 {
     public partial class frmSanPham : Form
     {
-        private readonly SanPhamBLL nvBLL = new SanPhamBLL();
+        private readonly SanPhamBLL sanPhamBLL = new SanPhamBLL();
 
         public frmSanPham()
         {
@@ -19,7 +19,7 @@ namespace GUI
 
         private void LoadSanPham()
         {
-            dataGridViewSanPham.DataSource = nvBLL.GetAll();
+            dataGridViewSanPham.DataSource = sanPhamBLL.GetAll();
         }
 
         private void ClearForm()
@@ -37,9 +37,9 @@ namespace GUI
         private void btnThem_Click(object sender, EventArgs e)
         {
             var nv = GetFormData();
-            if (nvBLL.Add(nv))
+            if (sanPhamBLL.Add(nv))
             {
-                MessageBox.Show("Thêm nhân viên thành công!");
+                MessageBox.Show("Thêm sản phảm thành công!");
                 LoadSanPham();
                 ClearForm();
             }
@@ -52,7 +52,7 @@ namespace GUI
         private void btnSua_Click(object sender, EventArgs e)
         {
             var nv = GetFormData();
-            if (nvBLL.Update(nv))
+            if (sanPhamBLL.Update(nv))
             {
                 MessageBox.Show("Cập nhật thành công!");
                 LoadSanPham();
@@ -71,7 +71,7 @@ namespace GUI
         private void btnTimKiem_Click(object sender, EventArgs e)
         {
             string keyword = txtTimKiem.Text.Trim();
-            dataGridViewSanPham.DataSource = nvBLL.GetAll();
+            dataGridViewSanPham.DataSource = sanPhamBLL.GetAll();
         }
 
         private void dataGridViewSanPham_CellContentClick(object sender, DataGridViewCellEventArgs e)

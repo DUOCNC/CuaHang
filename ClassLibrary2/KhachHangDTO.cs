@@ -11,12 +11,10 @@ namespace QLCuaHang.DTO
         public string MaKH { get; set; }
         public string TenKH { get; set; }
         public string SDT { get; set; }
-        public string DiaChi { get; set; }
-        public string Email { get; set; }
+        public string? DiaChi { get; set; }
+        public string? Email { get; set; }
 
-        public KhachHangDTO() { }
-
-        public KhachHangDTO(string maKH, string tenKH, string sDT, string diaChi, string email)
+        public KhachHangDTO(string maKH, string tenKH, string sDT, string? diaChi, string? email)
         {
             MaKH = maKH;
             TenKH = tenKH;
